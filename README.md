@@ -3,4 +3,4 @@
 
 This add-in creates a new ribbon menu with a nested dropdown menu where the user can select said menu to open a userform  
 
-![Userform state after opening it](https://github.com/rolandsarosy/Excel-add-in-Copy-product-images/tree/master/github/img3.PNG "Userform state after opening it")
+![](github/img3.PNG)
