@@ -3,7 +3,9 @@
 
 This add-in creates a new ribbon menu with a nested dropdown menu where the user can select said menu to open a userform  
 
+
 ![](github/img3.PNG)
+
 
 Features and how-to
 --------------
@@ -15,7 +17,9 @@ Features and how-to
 - Select the number of the columns for the product SKUs, brands and alerts if the image was not found
 - Click OK to start the process  
   
+  
 ![](github/img4.png)  
+  
   
 - Additonally, clicking the Default button will reset the userform.
 - Clicking Cancel will exit the userform.  
