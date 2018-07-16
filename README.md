@@ -4,7 +4,7 @@
 This add-in creates a new ribbon menu with a nested dropdown menu where the user can select said menu to open a userform  
 
 
-![](github/img3.PNG)
+![](github/img1.PNG)
 
 
 Features and how-to
@@ -18,7 +18,7 @@ Features and how-to
 - Click OK to start the process  
   
   
-![](github/img4.png)  
+![](github/img2.png)  
   
   
 - Additonally, clicking the Default button will reset the userform.
