@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} KepAdatbazis 
-   Caption         =   "CORWELL webes  képleszedõ alkalmazás"
+   Caption         =   "Webes  képleszedõ alkalmazás"
    ClientHeight    =   7185
    ClientLeft      =   45
    ClientTop       =   390
