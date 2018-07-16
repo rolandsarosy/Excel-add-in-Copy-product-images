@@ -10,7 +10,7 @@ Private Sub Workbook_Open()
    Dim objBtn As CommandBarButton
    With Application.CommandBars("Worksheet Menu Bar")
       On Error Resume Next
-      .Controls("CORWELL").Delete
+.Controls("CompanyName").Delete
       On Error GoTo 0
       Set objPopUp = .Controls.Add( _
          Type:=msoControlPopup, _
@@ -18,7 +18,7 @@ Private Sub Workbook_Open()
          temporary:=True)
    End With
    
-   objPopUp.Caption = "&CORWELL"
+objPopUp.Caption = "&CompanyName"
    
    Set objBtn = objPopUp.Controls.Add
    
